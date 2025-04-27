@@ -1,4 +1,4 @@
-Not very numeorus and don't have their own realm. Can be found in nearly any big city. Generally use their shapeshifting abilities for art, be it paintings, music, performance or theater or any other kind of art.
+Not very numerous and don't have their own realm. Can be found in nearly any big city. Generally use their shapeshifting abilities for art, be it paintings, music, performance or theater or any other kind of art.
 They are very creative and artistic at heart and so they are generally a very welcome sight, albeit not a trusted one.
 
 They are accepted in most realms and in many cities they have bonded together into guilds, where they control the entertainment business in the cities, becoming quite wealthy in the process. With this power, they are also known to stand in for different political movements.
