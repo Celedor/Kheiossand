@@ -1,0 +1,5 @@
+Weary from their fight against the [[Primordials]], the three [[Kheioi]] returned to the island of [[Kheiossand]]. On a mouth of the river Mparsatsh they found a small fishing village, which was in an ideal position and mostly fished for Oysters and Pearls.
+While [[The Diplomat]] made first contact with them and convinced the humans of their divinity, [[The Magnate]] helped the village becoming more prosperous and [[The Puppeteer]] overseed the expansion of the city. It didn't take long until the village became the most prosperous on the island, but its neighbors became jealous and they were attacked by a coalition of the neighboring villages.
+Outnumbered, they would have lost, if the diplomat wouldn't have made an alliance with the tides as well as the Rocs and Sea Wyverns nesting in the nearby cliffs. With the newly found allies they were able to easily sweep the encroaching army away with the combined forces of the Ocean and the Skies. 
+
+Together with the Rocs and Sea Wyverns, the city was now able to train a flying cavalry and soon the cities' control reach over the entire island and it has stayed that way until today.

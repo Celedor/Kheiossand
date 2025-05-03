@@ -1,0 +1,2 @@
+Long before the city of [[Kheiossand]] was founded, there were the extensive cavern systems, filled with various fungal lifeforms, great beasts and ancient structures.
+These caverns stretch throughout all of Kheiossar and there are few connections to the surface above. Due to its extensive and maze-like structure only a small portion of its truly explored and much more is a mystery. There could be [[Primordials]] or entirely different societies down there for all anyone knows.
