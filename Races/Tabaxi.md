@@ -1,0 +1,3 @@
+Large, bipedal humanoid felines that have fur coats of all possible colors and patterns, but usually earthy tones. They usually have long legs and arms, aswell as pointy ears and eyes that make it easier for them to see in the dark.
+
+They were created by [[The Idyllic Custodian]] and live in the [[Idyllic Plains]] in rather large families. Trained at a young age to fight with rudimentary weapons, most of them work on the fields which are plentiful.

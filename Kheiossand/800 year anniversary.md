@@ -1,0 +1,4 @@
+The city of [[Kheiossand]] stands for nearly 800 years now. And for most of that time, the [[Kheioi]] ruled over it in a council, together with 3 citizens.
+Every year on the 23rd of September (9) the city celebrates its founding in a city-wide parade. Although mostly citywide, it's really just the konmyi, pearl district, old city, eskya street and silk docks, with sometimes also roc's nest. But it rarely visits the pyont, the stacks or the new city.
+
+This year, the city celebrates its 800th birthday. And with such a big date, the city and the Kheioi want to host a large parade, which goes through the entire city, to show their glory and benevolence. [[The Diplomat]] for sure, maybe even the others are scheduled to walk in the middle of the parade. The entire city will celebrate for a whole week.

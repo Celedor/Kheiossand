@@ -1,0 +1,3 @@
+Cities are not  directly built on coasts or at the mouth of rivers, because erosion and the tides will change the shorelines and because tides and floodings will flood a lot of the area around rivers near the coastline.
+Modern technology can somewhat alleviate these problems, but usually even they still suffer from floodings from time to time (like Lisbon in winters)
+[[Kheiossand]] does not have this problem, as the three [[Kheioi]] can control the tides and keep these problems from causing too much trouble for the city, mostly with magic. If they aren't around anymore or aren't able to do that anymore, it could be catastrophic for the city.

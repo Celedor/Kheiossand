@@ -1,0 +1,1 @@
+The Vejtals North Sea Company or VNSC is a trading company of [[Vejtals]] that conducts trade oversees and has established multiple smaller colonies in the [[Land of the Bakaur]], where they are getting magical wood, jade and more.

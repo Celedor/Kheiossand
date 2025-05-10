@@ -1,0 +1,11 @@
+While the various states on the island are independent from each other, [[Kheiossand]] and especially the three [[Kheioi]], have a lot of influence over them. Due to their proximity, the Duchy of [[City of Thelspri|Thelspri]] and [[City of Loshk|Loshk]], the Duchy of Werkess and the Principality of Pyal are direct subjects with rather large autonomy.
+
+[[The Puppeteer]]'s [[Web of Lies(Knives)]] can be found in most of the remaining states, which gives them a lot of influence over their neighbors. [[The Magnate]] owns a lot of the manufactories and most of the magical infrastructure on the island, which gives him a very strong hand, and [[The Diplomat]] has a lot of ties and alliances spanning the entire island.
+
+The Grand Republic of Kheiossand likes the current status quo, with them having power over the other states, but the Kheioi aren't really interested in directly governing more land themselves, even while calls for unification are getting stronger in the populace, the Kheioi will do anything in their power to prevent this.
+
+Not liking to be under the Kheioi's influence, the other states are constantly vying for power, trying to gain more influence and increasing their lands. Smaller border conflicts between the states are not uncommon and uninvolved states often send mercenaries to other states, for the right price.
+Most of the states also wish to be rid of the Kheioi's influence over their land, which is for many the driving force behind their fight for power. Other states try to make alliances, so that together they are strong enough. However, the combined force of a million-city and three more states at their disposal is no easy thing to defeat.
+
+In more recent times, there was an attempt at the Diplomat's life. In addition to scaring all the Kheioi and surprising them, it has caused them to expand their direct influence over the island, declaring them the sole rulers. 
+This in turn has started a civil war, with many of the independent city states bonding together under the Paysh-League. They are supported by [[Grüdsandt]], whereas Kheiossand would have enjoyed support from [[Prennso]] and [[Pirusia]], but both have to deal with their own troubles at home, so Kheiossand stands alone.
