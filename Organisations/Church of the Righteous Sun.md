@@ -5,3 +5,19 @@ They seek to bring control and order back to [[Prennso]], more united than it wa
 Sorcerers are abominations,
 Wizards are heretics, 
 They deserve only death.
+
+
+
+Lead by the Head Arbiter
+He has a small core of people around him in the capital, the pontificate
+
+The other branches are different Militant Orders, vastly varying in size and membership. These are lead by the Grandmaster.
+Until recently these were split off into regions of administration, but they were all called back upon the civil war. Most have answered the call and returned, a very few have stayed with the Prince-Bishopric and are fighting against the church.
+
+Now only the Order of the Cleansing Flame, biggest and most central order which oversaw the direct land of the church, is still administrating land, the other orders are patrolling and fighting for the church.
+
+Most orders have a bunch of rank and file soldiers, which patrol the streets and fight in battles. They also have smaller units of specialized task forces that for example go out and hunt specific people.
+
+Known Orders:
+Order of Cleansing Flame
+Order of the Flaming Rose
