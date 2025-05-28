@@ -20,4 +20,5 @@ Most orders have a bunch of rank and file soldiers, which patrol the streets and
 
 Known Orders:
 Order of Cleansing Flame
-Order of the Flaming Rose
+[[Order of the Flaming Rose]]
+Order of the Iron Fist
