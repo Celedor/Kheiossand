@@ -19,6 +19,7 @@ Now only the Order of the Cleansing Flame, biggest and most central order which 
 Most orders have a bunch of rank and file soldiers, which patrol the streets and fight in battles. They also have smaller units of specialized task forces that for example go out and hunt specific people.
 
 Known Orders:
-Order of Cleansing Flame
+[[Order of Cleansing Flame]]
 [[Order of the Flaming Rose]]
 Order of the Iron Fist
+[[Order of the Purifying Flame]]
