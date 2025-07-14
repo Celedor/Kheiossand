@@ -22,4 +22,5 @@ Known Orders:
 [[Order of Cleansing Flame]]
 [[Order of the Flaming Rose]]
 Order of the Iron Fist
+Order of the Gleaming Blade
 [[Order of the Purifying Flame]]

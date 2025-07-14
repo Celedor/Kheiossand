@@ -27,3 +27,4 @@ The list of known Kheioi:
 [[The Shrouded One]]; deceased, created the [[Changelings]] and still revered by them, may still be in this world
 [[The Vast Canopy]]; Oversees and Protects the [[Great Southern Forest]]
 [[The Veiled Protector]]; Hides and Protects the [[Hidden Kingdom]] from outsiders
+[[The Unapproachable Wing]]; Resides Petrified in the [[Dislodged Isles]]
