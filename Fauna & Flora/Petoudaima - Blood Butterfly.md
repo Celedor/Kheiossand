@@ -7,4 +7,5 @@ One such body can last a swarm for up to two weeks.
 
 The butterflies have a wingspan of up to 100cm and are as such roughly as big as common ravens. Their coloration resembles their diet and their wings are intricate and beautiful patterns of black and red.
 
-![[Pasted image 20250503152437.png]]
+> [!image] Petoudaima
+![[Pasted image 20250503152437.png]] Petoudaima are crow-sized butterflies flying in swarms

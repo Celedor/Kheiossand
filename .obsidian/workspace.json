@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Realms/Prenntic Empire.md",
+                "file": "History & Mythology/Upheaval of the Wings.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Prenntic Empire"
+              "title": "Upheaval of the Wings"
             }
           }
         ]
@@ -160,6 +160,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -168,37 +169,39 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "112e531152fced58",
+  "active": "efa24cc8115bfd80",
   "lastOpenFiles": [
-    "Realms/Prenntic Empire.md",
-    "Races/Kianeroi.md",
-    "Realms/Kheiossand.md",
-    "Races/Orcs.md",
+    "Kheioi/The Unapproachable Wing.md",
+    "History & Mythology/Upheaval of the Wings.md",
+    "Races/Avians.md",
     "Races/Kheioi.md",
-    "Kheioi/The Harbringer of Blood.md",
-    "Organisations/The Blood Comapny.md",
+    "Realms/Great Southern Forest - Vast Canopy.md",
+    "Kheioi/The Vast Canopy.md",
+    "Races/Bakaur.md",
+    "Kheioi/The Veiled Protector.md",
+    "Kheioi/The Shrouded One.md",
+    "Fauna & Flora/Petoudaima - Blood Butterfly.md",
+    "Fauna & Flora/Paraskanos - Blue Wings.md",
+    "Fauna & Flora/Caverns.md",
+    "Natural Laws/Kianemos.md",
+    "History & Mythology/The Forgotten Age of Gods.md",
+    "History & Mythology/The First Creation.md",
+    "Kheioi/The Apprentice.md",
     "Organisations/Church of the Righteous Sun.md",
     "Organisations/Order of the Flaming Rose.md",
-    "Organisations/Vejtals North Sea Company.md",
-    "Kheioi/The Unapproachable Wing.md",
-    "Realms/Dislodged Isles.md",
-    "Races/Avians.md",
-    "History & Mythology/Upheaval of the Wings.md",
-    "Realms/Grüdsandt.md",
-    "Realms/Bagriian.md",
-    "Realms/Great Southern Forest.md",
-    "Kheioi/The Joyous Romantic.md",
-    "Kheioi/The Hermit.md",
-    "Organisations/Order of the Purifying Flame.md",
     "Organisations/Order of Cleansing Flame.md",
-    "Order of Cleansing Flame.md",
-    "History & Mythology/The Forgotten Age of Gods.md",
-    "History & Mythology/The Primordial Wars.md",
-    "Races/Jannah.md",
-    "Pasted image 20250503152437.png",
-    "History & Mythology/Early days of Sidarti.md",
-    "pictures",
+    "Kheioi/The Joyous Romantic.md",
+    "Kheioi/The Great River Mother.md",
+    "Kheioi/The Ashen Father.md",
+    "Writing/How to start.md",
+    "NPCs/Greed.md",
+    "NPCs/The Palaima Family.md",
+    "NPCs/Tantje Anders Deuntje.md",
+    "images/Pasted image 20250503152437.png",
+    "Writing",
     "Untitled.canvas",
+    "images",
+    "pictures",
     "Organisations",
     "Untitled 1.canvas",
     "Kheioi/Untitled",
@@ -206,8 +209,6 @@
     "Natural Laws",
     "Kheiossand",
     "Cities",
-    "Fauna & Flora",
-    "History & Mythology",
-    "Realms"
+    "Fauna & Flora"
   ]
 }

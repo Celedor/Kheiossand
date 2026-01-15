@@ -1,0 +1,1 @@
+Giant forest to the south of Prennso, eternally shrouded in a thick fog, travellers oftentimes find themselves walking out of it where they entered, sometimes seeng willowwisps or a great stag

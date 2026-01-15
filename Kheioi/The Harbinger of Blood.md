@@ -1,0 +1,2 @@
+Got extremly damaged in the [[The Primordial Wars]] and seeks to further the pain and mysery he experienced on the world.
+Started a mercenary company, [[The Blood Company]], which is now the largest and most disciplined company on the continent. Is wherever there is a large war going on.

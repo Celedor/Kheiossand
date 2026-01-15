@@ -14,7 +14,7 @@ The list of known Kheioi:
 [[The Eternal Protector]]; Mother and Protector of the [[Bakaur]] in [[Land of the Bakaur]]
 [[The Golden Tycoon]]; Oversees monetary policy and taxation in [[Vejtals]]
 [[The Great River Mother]]; Head of her Cult in [[Sidarti]]
-[[The Harbringer of Blood]]; Wandering mercenary lord, currently in the lands of former [[Prennso]]
+[[The Harbinger of Blood]]; Wandering mercenary lord, currently in the lands of former [[Prennso]]
 [[The Hermit]]; Wandering altruist and healer, currently in [[Kheiossand]]
 [[The Idyllic Custodian]]; Tends to the [[Idyllic Plains]]
 [[The Iridescent Magus]]; Oversees and rules in [[Pirusia]], a stratocratic Magocracy
@@ -25,6 +25,6 @@ The list of known Kheioi:
 [[The Perpetual Wave]]; Rules [[Aupuni Nalu]] in a Dual Monarchy
 [[The Puppeteer]]; One of the three Members of the Council in [[Kheiossand]], responsible for citizen relations
 [[The Shrouded One]]; deceased, created the [[Changelings]] and still revered by them, may still be in this world
-[[The Vast Canopy]]; Oversees and Protects the [[Great Southern Forest]]
+[[The Vast Canopy]]; Oversees and Protects the [[Great Southern Forest - Vast Canopy]]
 [[The Veiled Protector]]; Hides and Protects the [[Hidden Kingdom]] from outsiders
 [[The Unapproachable Wing]]; Resides Petrified in the [[Dislodged Isles]]

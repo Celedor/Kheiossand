@@ -1,0 +1,1 @@
+Protector of [[Great Southern Forest - Vast Canopy]], appears as a great stag

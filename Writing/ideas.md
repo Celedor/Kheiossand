@@ -1,0 +1,6 @@
+- Deeper history and connections, history and famous places and events in Prennso
+- How did places came to be, famous figures in the creationstories
+- Relationship between Prennso and Kheiossand
+- Southern Border of the Prenntic Empire
+- How did the Prennso become so decentralized
+- current happenings in the dislodged isles
