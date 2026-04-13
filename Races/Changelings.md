@@ -9,3 +9,5 @@ Soon thereafter they disappeared or died. The Changelings believe that they neve
 
 Changelings look vaguely humanoid, but they are usually larger than other mortals and thin built. Their limbs are longer than their body and give them a very uncanny look. Their faces are pale and long stretched and mostly featureless. The only feature they have is their large, black, beady eyes. When they talk or eat, the lower part of their chin opens up and reveals a mandible-like mouth, which seals shut to form the chin and lower jaw.
 Their white porcelain skin is on closer inspection very similar to a chitin carapace, not unlike those of insects. When they transform into another creature, they shed their outer carapace, in order to reveal their new form from underneath. This usually leaves their their shed skin behind, but changeling communities have ways how to reuse those. Onlookers have pointed out how painful this transformation looks, however the changelings themselves do not feel much pain during this transformation.
+
+They can be found out if their skin gets punctured and perhaps their beady black eyes can be seen through the eyes of their disguise.
