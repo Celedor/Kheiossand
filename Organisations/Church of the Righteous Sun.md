@@ -23,4 +23,5 @@ Known Orders:
 [[Order of the Flaming Rose]]
 Order of the Iron Fist
 Order of the Gleaming Blade
+[[Order of the Vigilent Sun ]]
 [[Order of the Purifying Flame]]

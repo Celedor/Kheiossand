@@ -3,7 +3,7 @@ They do not age naturally and were long said to be immortal. Recent events have 
 
 The Kheioi that live in this world are all revered as Gods and many of them have created their own people and realms, over which many of them rule. There are some, that haven't done either and travel around the world, lending their services to anyone in need, be that war or charity.
 
-Some of the most powerful and oldest beings in the world. While there are only 19(18) left nowadays, in the past it is said that they were much more numerous until a bloody war cut their numbers down and scarred the remaining ones physically and emotionally.
+Some of the most powerful and oldest beings in the world. While there are only 21(20/19) left nowadays, in the past it is said that they were much more numerous until a bloody war cut their numbers down and scarred the remaining ones physically and emotionally.
 While they have names they are known by among their children, it is rumored that they also have their own, personal names, which only they themselves know and are spoken only amongst themselves.
 
 The list of known Kheioi:

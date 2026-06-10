@@ -4,5 +4,5 @@
 - Southern Border of the Prenntic Empire
 - How did the Prennso become so decentralized
 - current happenings in the dislodged isles
-- [[Verena]] is experiencing adventures
+- [[Kirina]] is experiencing adventures
 - Longer story - cozy poly kinky, a bit like Legends&Lattes/House Witch, maybe with Verena?

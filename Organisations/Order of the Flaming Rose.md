@@ -9,4 +9,4 @@ The Order of the Flaming Rose operates in small, independent cells and has no pu
 
 [](https://cdn.discordapp.com/attachments/1103085388152705094/1375535366508908554/COA_Flaming_Rose2.png?ex=68320aa3&is=6830b923&hm=4d78204b23eeb932a65ab7ec72262cca8b62cb90a0790071d79623a8fd1d9edc&)
 
-![Image](https://media.discordapp.net/attachments/1103085388152705094/1375535366508908554/COA_Flaming_Rose2.png?ex=68320aa3&is=6830b923&hm=4d78204b23eeb932a65ab7ec72262cca8b62cb90a0790071d79623a8fd1d9edc&=&format=webp&quality=lossless&width=291&height=350)
+![Image|60](https://media.discordapp.net/attachments/1103085388152705094/1375535366508908554/COA_Flaming_Rose2.png?ex=68320aa3&is=6830b923&hm=4d78204b23eeb932a65ab7ec72262cca8b62cb90a0790071d79623a8fd1d9edc&=&format=webp&quality=lossless&width=291&height=350)

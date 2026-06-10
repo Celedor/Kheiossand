@@ -1,5 +1,6 @@
 Not very numerous and don't have their own realm. Can be found in nearly any big city. Generally use their shapeshifting abilities for art, be it paintings, music, performance or theater or any other kind of art.
 They are very creative and artistic at heart and so they are generally a very welcome sight, albeit not a trusted one.
+Their own name for themselves is Eklasi - which means "Echoes of Creation" in Kheiossan, where alot of them live.
 
 They are accepted in most realms and in many cities they have bonded together into guilds, where they control the entertainment business in the cities, becoming quite wealthy in the process. With this power, they are also known to stand in for different political movements.
 As their abilities are very useful for anything covert, many people try to hire them for such jobs, be it espionage, assassination or else. Not many Changelings take on these jobs, but those that do, have great success in it. Because of this, the people that know about this possibility have the tendency to distrust the Changelings at large.
